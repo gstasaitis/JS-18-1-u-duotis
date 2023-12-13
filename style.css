@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div { 
+    display: inline-block;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+    width: 350px;
+    height: 500px;
+    box-shadow: 15px 15px 30px #bebebe
+}
+
+div h2{
+    margin-top: 25px;
+    display: inline-block; 
+}
+
+div h3{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 25px;
+    display: inline-block; 
+}
